@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{03FB80D7-5E14-4E87-AF83-C57C7DFEDB0C}</ProjectGuid>
+    <ProjectGuid>{D4FBC9A4-3CD9-27A1-81D3-E604DE5C7339}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -273,13 +273,13 @@
       <HintPath>D:/Unity-Projects/2019.4.10f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Unsafe">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/PackageCache/com.unity.burst@1.3.9/Unity.Burst.Unsafe.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/PackageCache/com.unity.burst@1.3.9/Unity.Burst.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="System.Runtime.CompilerServices.Unsafe">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/PackageCache/com.unity.collections@0.9.0-preview.6/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/PackageCache/com.unity.collections@0.9.0-preview.6/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview/Runtime/Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/PackageCache/com.unity.nuget.newtonsoft-json@2.0.0-preview/Runtime/Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Unity-Projects/2019.4.10f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -627,52 +627,52 @@
       <HintPath>D:/Unity-Projects/2019.4.10f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Jobs">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Jobs.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Jobs.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Jobs.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Burst.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Burst.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Collections">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Collections.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/yamak/OneDrive/Masaüstü/ZerosumTest/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/yamak/OneDrive/Documents/GitHub/UnityTestProject/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup></ItemGroup>
